@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="wachetext">Steinwache was opened in 1906 as a police station and is a memorial
+	now. After the Nazis came to power in Germany in 1933, the Gestapo took over Steinwache and
+	used it as prison for resistance fighters. Since 1992 the Exhibition \"Resistance and
+	Persecution in Dortmund 1933-1945\" is located in Steinwache.</string>
+	<string name="wachelat">51.52</string>
+	<string name="wachelong">7.460097</string>
+</resources>

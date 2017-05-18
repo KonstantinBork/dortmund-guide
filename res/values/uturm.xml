@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="uturmtext">Der U-Turm ist der ehemalige, denkmalgeschützte Stammsitz der Dortmunder
+	Union-Brauerei. Der Turm wurde 1926/27 gebaut, das namensgebende U ist seit 1968 auf dem Dach.
+	Bis 1994 war der Turm in Betrieb, nach Verkäufen des Gebäudes und Grundstückes übernahm die Stadt
+	Dortmund 2007 den U-Turm. 2008 beschloss die Stadt den Turm im Rahmen von RUHR.2010 zu einem
+	lokalen Kulturzentrum umzubauen. Im Jahr 2010 erfolgte die Teileröffnung des Turmes, noch immer
+	wird am Turm gearbeitet.</string>
+	<string name="uturmlat">51.515235</string>
+	<string name="uturmlong">7.45228</string>
+</resources>

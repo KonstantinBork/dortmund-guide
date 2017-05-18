@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="westhelltext">Westenhellweg is part of the central shopping street in Dortmund
+	city. It starts at about the level of Alter Markt and runs one kilometer to Westentor. In the
+	east it extends to Ostenhellweg. Together, both streets form the original street of the Middle
+	Ages. Westenhellweg is one of the most-frequented shopping streets in Germany.</string>
+	<string name="westhelllat">51.514353</string>
+	<string name="westhelllong">7.461153</string>
+</resources>

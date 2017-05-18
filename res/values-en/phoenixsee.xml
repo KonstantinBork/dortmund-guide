@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="phoenseetext">Phoenixsee is a man-made lake in Dortmund-Hoerde. It is located on
+	the area of Phoenix-Ost, a former steel plant. People started to work on this lake in 2006
+	after a deal with Chinese investors who bought the steel plant and brought it to China. On
+	October 1st 2010 the work on the lake were officially finished and since May 2011 everyone is
+	allowed to go to the lake.</string>
+	<string name="phoenseelat">51.490397</string>
+	<string name="phoenseelong">7.513011</string>
+</resources>

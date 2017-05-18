@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="thuringtext">Der Thüringer befindet sich am Alten Markt und bietet deftige
+	Küche an.</string>
+	<string name="thuringlat">51.513993</string>
+	<string name="thuringlong">7.465711</string>
+</resources>

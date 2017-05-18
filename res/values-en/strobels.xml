@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="strobeltext">Strobel\'s is a restaurant and bar on Strobelallee located right
+	next to the stadium.</string>
+	<string name="strobellat">51.493851</string>
+	<string name="strobellong">7.453106</string>
+</resources>

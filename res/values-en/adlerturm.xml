@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="aturmtext">Adlerturm is a tower reconstructed on foundations from the Middle
+	Ages. It stands at its original place at the historic city limit of Dortmund. The tower which
+	is about 30 meters high contains a small exhibition about Dortmund\' history.</string>
+	<string name="aturmlat">51.510279</string>
+	<string name="aturmlong">7.469388</string>
+	
+</resources>

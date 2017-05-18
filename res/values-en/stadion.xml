@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="stadiontext">Signal-Iduna-Park is the stadium of Borussia Dortmund. Until 2005 it was
+	famous as Westfalenstadion. With 80.720 seats it is the largest stadium in Germany in matches
+	of the German Bundesliga. At the FIFA World Cup 2006 several matches took place in it including
+	two of the German national team. Since 2009 you can also find a museum called Borusseum.</string>
+<string name="stadionlat">51.492676</string>
+<string name="stadionlong">7.452064</string>
+</resources>

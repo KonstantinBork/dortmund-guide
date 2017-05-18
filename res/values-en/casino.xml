@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="casinotext">This casino opened in 1985 is the most economic one in Germany.
+	You can find every game here, for example Roulette and Poker. Before the casino was built there
+	were pubs and restaurants located at its place.</string>
+	<string name="casinolat">51.420383</string>
+	<string name="casinolong">7.489346</string>
+</resources>

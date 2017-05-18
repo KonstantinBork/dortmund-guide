@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dortmund Guide</string>
+    <string name="start">Start</string>
+    
+    <string name="map">Karte</string>
+    <string name="sight">Sehenswürdigkeiten</string>
+    <string name="club">Restaurants und Clubs</string>
+    <string name="info">Über die App</string>
+    <string name="maps_api_key">0mPUAAf2cuoT8QlhTJ7PfGQpYp2wRvlJpYE2i-Q</string>
+    <string name="version">Version 0.61 alpha</string>
+    
+    <string name="aturm">Adlerturm</string>
+    <string name="altmarkt">Alter Markt</string>
+    <string name="bplatz">Borsigplatz</string>
+    <string name="bruckstr">Brückstraße</string>
+    <string name="casino">Spielbank Hohensyburg</string>
+    <string name="airport">Dortmunder Flughafen</string>
+    <string name="dohbf">Dortmunder Hauptbahnhof</string>
+    <string name="fpark">Fredenbaumpark</string>
+    <string name="fplatz">Friedensplatz</string>
+    <string name="hplatz">Hansaplatz</string>
+    <string name="kreuz">Kreuzviertel</string>
+    <string name="phoensee">Phoenixsee</string>
+    <string name="rpark">Rombergpark</string>
+    <string name="garten">Stadtgarten</string>
+    <string name="wache">Steinwache</string>
+    <string name="uturm">U-Turm</string>
+    <string name="westhell">Westenhellweg</string>
+    <string name="minstein">Zeche Minister Stein</string>
+    <string name="reinoldikirche">Reinoldikirche</string>
+    <string name="stadion">Signal-Iduna-Park</string>
+    <string name="westfalenpark">Westfalenpark</string>
+    <string name="westfalenhallen">Westfalenhallen</string>
+    <string name="zoo">Zoo Dortmund</string>
+    
+    <string name="passion">Passion</string>
+    <string name="burger">Burger King in Dortmund</string>
+    <string name="thuring">Der Thüringer</string>
+    <string name="kfc">Kentucky Fried Chicken in Dortmund</string>
+    <string name="grand">Le Grand</string>
+    <string name="maredo">Maredo</string>
+    <string name="rush">Rush Hour</string>
+    <string name="ssinners">Silent Sinners</string>
+    <string name="strobel">Strobel\'s</string>
+    <string name="view">View</string>
+    <string name="prisma">Prisma Nachterlebniswelt Dortmund</string>
+    <string name="village">Village</string>
+    <string name="nightrooms">Nightrooms</string>
+    <string name="vapiano">Vapiano Dortmund</string>
+    <string name="mcdonald">McDonalds in Dortmund</string>
+
+    <string name="infoText">Copyright 2011 Konstantin Bork \n
+    	Alle verwendeten Bilder stehen unter dem Urheberrecht ihrer jeweiligen Besitzer.
+    	Texte, Bilder und Layout sind nicht final.
+    	Der Inhalt und Aufbau der App kann sich bis zur endgültigen Fassung noch ändern.
+    	</string>
+</resources>
+
+
+
+
+
+

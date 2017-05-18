@@ -1,0 +1,75 @@
+Dortmund Guide Version 0.6 alpha
+ReadMe
+
+Autor: Konstantin Bork
+
+Inhalt:
+Allgemeines
+Übersicht
+Veränderung zur direkten Vorversion
+Ausschlussklausel
+Mindestvoraussetzung
+Installation
+Vorgehensweise
+Testen
+Geplanter Entwicklungsverlauf
+
+
+Allgemeines
+------------------
+Diese App ist noch in Entwicklung. Für weitere Fragen, melden Sie sich beim Entwickler.
+
+
+Übersicht
+--------------
+Mit dem "Dortmund Guide" erfährt man viel über die Ruhrmetropole Dortmund. Neben wichtigen Sehenswürdigkeiten
+erfährt man auch, welche Clubs und Restaurants angesagt sind. In der alpha-Version sind 23 Sehenswürdigkeiten und 10
+Clubs und Restaurants vorhanden.
+
+
+Veränderung zur direkten Vorversion
+---------------------------------------------------
+Alle Texte sind nun sowohl in Deutsch als auch Englisch vorhanden.
+
+
+Ausschlussklausel
+--------------------------
+Der Entwickler nimmt aufgrund des Entwicklungsstatus keine Verantwortung für Stabilitätsprobleme, Verlust von Daten,
+entstehende Kosten bei einer Internetverbindung, Beschädigungen des Gerätes etc. Der Nutzer erklärt sich mit dieser
+Vorgehensweise einverstanden, sobald er das Programm benutzt.
+
+
+Mindestvoraussetzung
+--------------------------------
+Es wird mindestens ein Android-Gerät mit Version 2.0 und Google Apps, insbesondere "Google Maps", vorausgesetzt.
+
+
+Installation
+---------------
+Entpacken Sie die zip-Datei und kopieren Sie die apk-Datei auf Ihr Gerät. Wählen Sie dann auf Ihrem Gerät die Datei und
+folgen Sie den Anweisungen. Nehmen Sie die Permissions/Genehmigungen an.
+
+
+Vorgehensweise
+------------------------
+Nach Aufruf der App gelangt man auf die Startseite. Nach Betätigen des Buttons erscheint das Hauptmenü, von dem man
+in die Untermenüs "Sehenswürdigkeiten" und "Restaurants und Clubs" und auf die Infoseite gelangt. In den beiden Untermenüs
+kann man dann die Sehenswürdigkeit, das Restaurant oder den Club auswählen, zu der/dem man mehr erfahren will. Möchte man
+in das vorherige Menü, so drückt man die Zurück-Taste der benutzten Hardware.
+
+
+Testen
+----------
+Als Entwickler hoffe ich, ein entsprechendes Feedback von den Testern zu bekommen. Falls es Probleme gibt, melden Sie sich
+bitte bei mir. Auch bei Vorschlägen, Kritik o. Ä. freue ich mich sehr, falls Sie sich melden.
+
+
+Geplanter Entwicklungsverlauf
+------------------------------------------
+Version 0.7 - Implementierung von Google Maps
+Version 0.8 - Endgültige Fassung aller Sehenswürdigkeiten usw.
+Version 0.9 - Endgültiges Design, Texte und Bilder sind final, beta-Version mit Test
+Version 0.9 rc1 - Release Candidate nach beta-Test, weitere Release Candidates folgen bei Problemen
+Version 1.0 - Release
+
+© Konstantin Bork, 2011

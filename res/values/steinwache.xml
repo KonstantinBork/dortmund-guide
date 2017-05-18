@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="wachetext">Heute als Mahn- und Gedenkstätte verwendet, wurde die Steinwache
+	im Jahr 1906 als Polizeirevier eröffnet. Nachdem die Nationalsozialisten im Jahr 1933 die
+	Macht in Deutschland übernahmen, wurde die Steinwache von der Gestapo übernommen und u.a. als
+	Gefängnis für oppositionelle Widerstandskämpfer verwendet. Seit 1992 befindet sich die
+	Ausstellung \"Widerstand und Verfolgung in Dortmund 1933-1945\" in der Steinwache.</string>
+	<string name="wachelat">51.52</string>
+	<string name="wachelong">7.460097</string>
+</resources>

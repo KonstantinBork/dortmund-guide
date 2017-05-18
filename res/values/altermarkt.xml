@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="altmarkttext">Der Alte Markt ist das historische Zentrum Dortmunds. Bis 1955
+	stand hier das Rathaus, heute findet man die wiederaufgebaute Adler-Apotheke. In den 1980ern
+	wurde der Platz saniert und dient seitdem für die Gastronomie als Außenbereich der Restaurants.
+	Zusammen mit dem Hansaplatz nebenan bildet der Alte Markt das Zentrum des Dortmunder Weihnachtsmarktes.</string>
+	<string name="altmarktlat">51.513903</string>
+	<string name="altmarktlong">7.466226</string>
+	
+</resources>

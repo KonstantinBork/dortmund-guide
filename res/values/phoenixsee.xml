@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="phoenseetext">Der Phoenixsee ist ein künstlicher See im Stadtteil Hörde.
+	Er befindet sich auf dem Gelände des ehemaligen Stahlwerkes Phoenix-Ost. Nachdem dieses
+	an chinesische Investoren verkauft und in Einzelteilen geliefert wurde, begannen im Jahr
+	2006 die Arbeiten am See, welche bis 2010 andauerten. Am 1. Oktober 2010 begann die offizielle
+	Flutung, seit Mai 2011 ist er öffentlich zugänglich.</string>
+	<string name="phoenseelat">51.490397</string>
+	<string name="phoenseelong">7.513011</string>
+</resources>

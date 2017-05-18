@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="thuringtext"> The Thuringer is located at Alter Markt and offers fries and
+	Currywurst.</string>
+	<string name="thuringlat">51.513993</string>
+	<string name="thuringlong">7.465711</string>
+</resources>

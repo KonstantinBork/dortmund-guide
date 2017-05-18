@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="gartentext">Der Stadtgarten ist eine 1982 errichtete Grünfläche innerhalb
+	des Dortmunder Walls. Östlich befindet sich der Friedensplatz, im Nordosten das Rathaus.
+	Im Zentrum befindet sich der Gauklerbrunnen, außerdem ist eine Skateanlage vorhanden.</string>
+	<string name="gartenlat">51.510657</string>
+	<string name="gartenlong">7.464737</string>
+</resources>

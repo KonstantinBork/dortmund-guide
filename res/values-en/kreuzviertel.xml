@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="kreuztext">Kreuzviertel (Kreuz Quarter) is a neighbourhood in the city named by
+	Heilig-Kreuz-Kirche (Holy Cross Church) with its borders at Hohe Straße, Sonnenstraße,
+	Lindemannstraße and Rheinlanddamm (B1). From the 1970s onwards it is dominated by students
+	because of the university and the low rent costs at that time. Still today you can find a
+	multifaceted scene with bars,restaurants and cafés.</string>
+	<string name="kreuzlat">51.502402</string>
+	<string name="kreuzlong">7.449628</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="kreuztext">Das Kreuzviertel bezeichnet ein nach der Heilig-Kreuz-Kirche benanntes
+	Wohnviertel in der Innenstadt, welches durch die Hohe Straße, die Sonnenstraße, die
+	Lindemannstraße und den Rheinlanddamm (B1) begrenzt wird. Seit den 70er-Jahren ist es sehr
+	akademisch-studentisch geprägt, bedingt durch die Nähe zur Universität und die damals niedrigen
+	Mieten. Trotz der heute überdurchscnittlich hohen Mieten findet man noch immer eine vielfältige
+	Szene mit Bars und Cafés.</string>
+	<string name="kreuzlat">51.502402</string>
+	<string name="kreuzlong">7.449628</string>
+</resources>

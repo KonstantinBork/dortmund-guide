@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="grandtext">This disco is located at Brueckstrasse and plays club hits,
+	House music, disco music and R\'n\'B.</string>
+	<string name="grandlat">51.516245</string>
+	<string name="grandlong">7.464941</string>
+</resources>

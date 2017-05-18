@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="mcdonaldtext">Mit drei Restaurants unmittelbar in der Innenstadt und insgesamt
+	neun im gesamten Stadtgebiet ist McDonald\'s wohl gut in Dortmund vertreten.</string>
+	<string name="mcdonaldlat1">51.51431</string>
+	<string name="mcdonaldlong1">7.461723</string>
+	<string name="mcdonaldlat2">51.514297</string>
+	<string name="mcdonaldlong2">7.470303</string>
+	<string name="mcdonaldlat3">51.545612</string>
+	<string name="mcdonaldlong3">7.460234</string>
+</resources>

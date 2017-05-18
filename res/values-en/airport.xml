@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="airporttext">Dortmund Airport 21 (name according to DSW21) is located in Wickede
+	at the border to Holzwickede. It is home of Lufthansa\'s subsidiary company Eurowings and is destination
+	budget airlines. For many years the airport causes trouble because it is not economic and because
+	of its noise.</string>
+	<string name="airportlat">51.518285</string>
+	<string name="airportlong">7.614677</string>
+</resources>

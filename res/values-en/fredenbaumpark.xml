@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="fparktext">Fredenbaumpark sized 63 hectares and more than 100 years old is the
+	green lung of the Nordstadt. Until World War 1 there was a small airport in the north. Today,
+	you can find many attractions used for fun and relaxing.</string>
+	<string name="fparklat">51.537945</string>
+	<string name="fparklong">7.452997</string>
+</resources>

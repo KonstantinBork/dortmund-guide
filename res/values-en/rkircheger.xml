@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="rkirchetext">Reinoldikirche (Reinoldi Church) named after Reinoldus the patron saint
+	of Dortmund is a Protestant church in the city center. It is the center of urban building
+	as well as the geographical center of Dortmund\'s center. The oldest part of the church
+	is more than 700 years old. Today it is more than 104 meters high.</string>
+<string name="rkirchelat">51.514699</string>
+<string name="rkirchelong">7.467081</string>
+</resources>

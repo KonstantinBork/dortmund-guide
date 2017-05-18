@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="bruckstrtext">Brueckstrasse is the center of Brueckstassenviertel which is
+	takes in an important place in Dortmund\'s nightlife. Besides the shops it is home of
+	Konzerthaus Dortmund (Concert Hall Dortmund) whereby it became a center of culture in Dortmund.</string>
+	<string name="bruckstrlat">51.516198</string>
+	<string name="bruckstrlong">7.466003</string>
+	
+</resources>

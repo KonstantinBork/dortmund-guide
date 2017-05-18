@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rparktext">Since 1951 officially known as Botanical Garden Rombergpark,
+	Rombergpark was basis for Romberg\'s Castle Park. The beginnings, however, reach back to the
+	year 1818 when the family of Romberg erected a park	around their property in
+	Dortmund-Bruenninghausen. Since 1926 it is property of the city of Dortmund and is used as a
+	botanical garden since then.</string>
+	<string name="rparklat">51.47965</string>
+	<string name="rparklong">7.466666</string>
+</resources>

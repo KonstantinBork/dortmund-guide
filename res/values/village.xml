@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="villagetext">Das Village ist eine kleine Diskothek am Westenhellweg und hat zwei
+	Dancefloors.</string>
+	<string name="villagelat">51.514243</string>
+	<string name="villagelong">7.458955</string>
+</resources>

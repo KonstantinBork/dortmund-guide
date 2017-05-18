@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+
+<ScrollView
+	android:layout_height="fill_parent"
+	android:layout_width="fill_parent">
+	
+	<LinearLayout
+  	xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:orientation="vertical"
+  	android:layout_width="fill_parent"
+  	android:layout_height="fill_parent">
+	  
+		<Button
+			android:text="@string/map"
+			android:id="@+id/mapButton"
+			android:layout_width="fill_parent"
+			android:layout_height="100dip">
+			</Button>
+	
+		<Button
+			android:text="@string/sight"
+			android:id="@+id/sightButton"
+			android:layout_width="fill_parent"
+			android:layout_height="100dip">
+			</Button>
+	
+		<Button
+			android:text="@string/club"
+			android:id="@+id/clubButton"
+			android:layout_width="fill_parent"
+			android:layout_height="100dip">
+			</Button>
+	
+		<Button
+			android:text="@string/info"
+			android:id="@+id/infoButton"
+			android:layout_width="fill_parent"
+			android:layout_height="100dip">
+			</Button>
+
+		</LinearLayout>
+	</ScrollView>
+</LinearLayout>

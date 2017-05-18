@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="aturmtext">Der Adlerturm ist ein auf mittelalterlichen Fundamenten rekonstruierter
+	Turm an der ursprünglichen Stadtgrenze Dortmunds. Der 30 Meter hohe Turm beinhaltet eine kleine
+	Ausstellung zur Stadtgeschichte Dortmunds.</string>
+	<string name="aturmlat">51.510279</string>
+	<string name="aturmlong">7.469388</string>
+	
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="minsteintext">Die 1856 gegründete Zeche Minister Stein war ein Steinkohlen-
+	Bergwerk in Dortmund-Eving. Seit dem Jahr 1871 trug sie den Namen des preußischen Ministers
+	Karl Freiher vom Stein. Im Jahr 1925 ereignete sich eine schwere Explosion, bei der 136 Kumpel
+	ums Leben kamen. Minister Stein war lange Zeit nur indirekt vom Zechensterben im Ruhrgebiet
+	betroffen, im Jahr 1987 kam aber das Ende für die Zeche. Der Hammerkopfturm ist als bedeutende
+	Landmarke denkmalgeschützt.</string>
+	<string name="minsteinlat">51.546907</string>
+	<string name="minsteinlong">7.46368</string>
+</resources>

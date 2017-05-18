@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="prismatext">Das Prisma Dortmund in Eving ist eine Großraumdiskothek, in der
+	verschiedene Veranstaltungen stattfinden. Aufgrund der vielen Getränkeaktionen und relativ
+	niedrigen Preise ist es bei vielen Leuten beliebt.</string>
+	<string name="prismalat">51.54745</string>
+	<string name="prismalong">7.464056</string>
+</resources>

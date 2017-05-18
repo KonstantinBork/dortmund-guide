@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="wparktext">Der Westfalenpark, eröffnet zur Bundesgartenschau 1959, gilt mit seinen
+70 Hektar zu den größten innerstädtischen Parks Europas. Er war außerdem Schauplatz zweier weiterer
+Bundesgartenschauen. Die Wahrzeichen innerhalb des Parks sind das Deutsche Rosarium, das Sonnensegel,
+ein Sessellift und nicht zuletzt der Florianturm, ein 220 Meter hoher Fernsehturm.</string>
+<string name="wparklat">51.49476</string>
+<string name="wparklong">7.477126</string>
+</resources>

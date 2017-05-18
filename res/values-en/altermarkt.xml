@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="altmarkttext">Alter Markt is the historic center of Dortmund. Until 1955,
+	the town hall was located here, today you find the reconstructed Adler-Apotheke. In the 80s,
+	it was rehabilitated and is now in use of the restaurants around it. Together with Hansaplatz
+	it is the center of Dortmund\'s Christmas market.</string>
+	<string name="altmarktlat">51.513903</string>
+	<string name="altmarktlong">7.466226</string>
+	
+</resources>

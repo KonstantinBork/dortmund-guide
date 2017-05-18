@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:orientation="vertical"
+   		android:layout_width="fill_parent"
+    	android:layout_height="fill_parent">
+	<ScrollView
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent">    
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:orientation="vertical"
+   		android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	>
+    	
+    	<Button
+			android:id="@+id/aturm"
+			android:layout_width="fill_parent"
+			android:text="@string/aturm"
+			android:layout_height="100dip">
+			</Button>
+		
+		<Button
+			android:id="@+id/altmarkt"
+			android:layout_width="fill_parent"
+			android:text="@string/altmarkt"
+			android:layout_height="100dip">
+			</Button>
+		
+		<Button
+			android:id="@+id/bplatz"
+			android:layout_width="fill_parent"
+			android:text="@string/bplatz"
+			android:layout_height="100dip">
+			</Button>
+		
+		<Button
+			android:id="@+id/bruckstr"
+			android:layout_width="fill_parent"
+			android:text="@string/bruckstr"
+			android:layout_height="100dip">
+			</Button>
+		
+		<Button
+			android:id="@+id/casino"
+			android:layout_width="fill_parent"
+			android:text="@string/casino"
+			android:layout_height="100dip">
+			</Button>
+		
+		<Button
+			android:id="@+id/airport"
+			android:layout_width="fill_parent"
+			android:text="@string/airport"
+			android:layout_height="100dip">
+			</Button>
+		
+		<Button
+			android:id="@+id/dohbf"
+			android:layout_width="fill_parent"
+			android:text="@string/dohbf"
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/zoo"
+			android:layout_width="fill_parent"
+			android:text="@string/zoo"
+			android:layout_height="100dip">
+			</Button>
+		
+		<Button
+			android:id="@+id/fpark"
+			android:layout_width="fill_parent"
+			android:text="@string/fpark"
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/fplatz"
+			android:layout_width="fill_parent"
+			android:text="@string/fplatz"
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/hplatz"
+			android:layout_width="fill_parent"
+			android:text="@string/hplatz"
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/kreuz"
+			android:layout_width="fill_parent"
+			android:text="@string/kreuz"
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/phoensee"
+			android:layout_width="fill_parent"
+			android:text="@string/phoensee"
+			android:layout_height="100dip">
+			</Button>
+				
+		<Button
+			android:id="@+id/rkirche"
+			android:layout_width="fill_parent"
+			android:text="@string/reinoldikirche"
+			android:layout_height="100dip">
+			</Button>
+
+		<Button
+			android:id="@+id/rpark"
+			android:layout_width="fill_parent"
+			android:text="@string/rpark"
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/stadion"
+			android:layout_width="fill_parent"
+			android:text="@string/stadion"
+			android:layout_height="100dip">
+			</Button>
+		
+		<Button
+			android:id="@+id/garten"
+			android:layout_width="fill_parent"
+			android:text="@string/garten"
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/wache"
+			android:layout_width="fill_parent"
+			android:text="@string/wache"
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/uturm"
+			android:layout_width="fill_parent"
+			android:text="@string/uturm"
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/westhell"
+			android:layout_width="fill_parent"
+			android:text="@string/westhell"
+			android:layout_height="100dip">
+			</Button>
+				
+		<Button
+			android:id="@+id/westfalenhallen"
+			android:layout_width="fill_parent"
+			android:text="@string/westfalenhallen"
+			android:layout_height="100dip">
+			</Button>
+		
+		<Button
+			android:id="@+id/westfalenpark"
+			android:layout_width="fill_parent"
+			android:text="@string/westfalenpark"
+			android:layout_height="100dip">
+			</Button>
+		
+		<Button
+			android:id="@+id/minstein"
+			android:layout_width="fill_parent"
+			android:text="@string/minstein"
+			android:layout_height="100dip">
+			</Button>
+			
+		</LinearLayout>
+	</ScrollView>
+</LinearLayout>

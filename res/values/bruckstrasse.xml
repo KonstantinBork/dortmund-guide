@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="bruckstrtext">Zusammen mit den Straßen herum bildet die Brückstraße das Brückstraßenviertel,
+	welches einen wichtigen Platz in Dortmunds Nachtleben einnimmt. Neben den zahlreichen Geschäften
+	hat sich auch das Konzerthaus Dortmund hier angesiedelt, wodurch sich das früher berüchtigte Viertel
+	zu einem kulturellen Zentrum Dortmunds gewandelt hat.</string>
+	<string name="bruckstrlat">51.516198</string>
+	<string name="bruckstrlong">7.466003</string>
+	
+</resources>

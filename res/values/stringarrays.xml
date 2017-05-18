@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="Sights">
+	    <item>Adlerturm</item>
+	    <item>Alter Markt</item>
+	    <item>Borsigplatz</item>
+	    <item>Brückstraße</item>
+	    <item>Spielbank Hohensyburg</item>
+	    <item>Dortmunder Flughafen</item>
+	    <item>Dortmunder Hauptbahnhof</item>
+	    <item>Fredenbaumpark</item>
+	    <item>Friedensplatz</item>
+	    <item>Hansaplatz</item>
+	    <item>Kreuzviertel</item>
+	    <item>Phoenixsee</item>
+	    <item>Rombergpark</item>
+	    <item>Stadtgarten</item>
+	    <item>Steinwache</item>
+	    <item>U-Turm</item>
+	    <item>Westenhellweg</item>
+	    <item>Zeche Minister Stein</item>
+	    <item>Reinoldikirche</item>
+	    <item>Signal-Iduna-Park</item>
+	    <item>Westfalenpark</item>
+	    <item>Westfalenhallen</item>
+	    <item>Zoo Dortmund</item>
+	</string-array>
+	
+	<string-array name="Clubs">
+	    <item>Passion</item>
+	    <item>Burger King in Dortmund</item>
+	    <item>Der Thüringer</item>
+	    <item>Kentucky Fried Chicken in Dortmund</item>
+	    <item>Le Grand</item>
+	    <item>Maredo</item>
+	    <item>Rush Hour</item>
+	    <item>Silent Sinners</item>
+	    <item>Strobel\'s</item>
+	    <item>View</item>
+	    <item>Prisma Nachterlebniswelt Dortmund</item>
+	    <item>Village</item>
+	    <item>Nightrooms</item>
+	    <item>Vapiano Dortmund</item>
+	    <item>McDonalds in Dortmund</item>
+	</string-array>
+    
+</resources>

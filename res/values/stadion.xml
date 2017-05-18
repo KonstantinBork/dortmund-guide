@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="stadiontext">Der Signal-Iduna-Park ist das Stadion von Borussia Dortmund. Bis 2005
+	war er unter dem Namen Westfalenstadion bekannt. Mit 80.720 Plätzen gilt er bei Bundesligaspielen
+	als größtes Stadion Deutschlands. Bei der FIFA-WM 2006 war er Schauplatz mehrerer Spiele, davon
+	zwei der Deutschen Nationalmannschaft. Seit 2009 befindet sich außerdem das Borusseum im Stadion.</string>
+<string name="stadionlat">51.492676</string>
+<string name="stadionlong">7.452064</string>
+</resources>

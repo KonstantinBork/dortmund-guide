@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="fplatztext">Friedensplatz is the administration center of Dortmund with
+	the town hall and the Stadthaus at its sides. On the plaza the Friedenssäule (Peace Column)
+	reminds of peace in the world. In 2006, 2008 and 2010, there was public viewing because of
+	football championships.</string>
+	<string name="fplatzlat">51.510987</string>
+	<string name="fplatzlong">7.466534</string>
+</resources>

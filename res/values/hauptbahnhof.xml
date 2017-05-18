@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="dohbftext">Der Hauptbahnhof zählt mit 130.000 Fahrgästen täglich zu den größten
+	Bahnhöfen Deutschlands. Seine Ursrünge reichen bis in das 19. Jahrhundert, während des 
+	2. Weltkrieges wurde er zerstört. Das danach neu entstandene Empfangsgebäude beherbergt
+	fünf Glasbilder, die die Dortmunder Wirtschaft repräsentieren. Nach dem Umbau zwischen 2009
+	und 2011 wurden diese durch Kopien ersetzt.</string>
+	<string name="dohbflat">51.517897</string>
+	<string name="dohbflong">7.459314</string>
+</resources>

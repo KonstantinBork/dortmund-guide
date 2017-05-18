@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="bplatztext">Borsigplatz is a traffic circle in Dortmund\'s famous Nordstadt.
+	It is named after Albert Borsig who was son of the co-inventor of the steam engine and 
+	is considered as foundation place of Borussia Dortmund. After big victories the team celebrates
+	at this place at first, last time after the winning of the German Championship 2011.
+	</string>
+	<string name="bplatzlat">51.523421</string>
+	<string name="bplatzlong">7.481622</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="minsteintext">Founded in 1856, Zeche Minister Stein was a coal mine in Dortmund
+	Eving. Since 1871, it was named after the Prussian Minister Karl Freiherr vom Stein. In 1925,
+	a serious explosion occurred and 136 people were killed. Minister Stein was a long time only
+	indirectly affected from the close-down of coal mines in the Ruhr area, but in 1987 it also had
+	to close.</string>
+	<string name="minsteinlat">51.546907</string>
+	<string name="minsteinlong">7.46368</string>
+</resources>

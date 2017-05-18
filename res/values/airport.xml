@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="airporttext">Der Dortmund Airport 21 (Name laut DSW21) liegt in Wickede an der Grenze
+	zur Gemeinde Holzwickede. Er ist Heimat von der Lufthansa-Tochter Eurowings und wird von vielen
+	Billig-Airlines angeflogen. Seit vielen Jahren gibt es Streit um den Flughafen, da er nicht
+	profitabel ist, ausgebaut werden soll und die Anwohner stört.</string>
+	<string name="airportlat">51.518285</string>
+	<string name="airportlong">7.614677</string>
+</resources>

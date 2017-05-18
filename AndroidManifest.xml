@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="de.Dortmund.Guide"
+      android:versionName="@string/version" android:versionCode="1">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION"/>
+    <uses-sdk android:minSdkVersion="8" />
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+    <uses-library android:name="com.google.android.maps"/>
+        <activity android:name=".startActivity"
+                  android:label="@string/app_name" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    <activity android:name="menu"></activity>
+<activity android:name="Sight"></activity>
+<activity android:name="mainmenu"></activity>
+<activity android:name="Club"></activity>
+<activity android:name="Info"></activity>
+<activity android:name="DortmundMap"></activity>
+<activity android:name="Club2"></activity>
+<activity android:name="menu2"></activity>
+<activity android:name="Sight2"></activity>
+</application>
+    
+</manifest> 

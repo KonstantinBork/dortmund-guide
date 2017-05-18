@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="bplatztext">Der Borsigplatz ist ein Kreisverkehr in der berühmt-berüchtigten
+	Nordstadt von Dortmund. Benannt nach Albert Borsig, der Sohn von dem Miterfinder der Dampfmaschine
+	war, gilt der Borsigplatz als Geburtsort von Borussia Dortmund. Nach großen Erfolgen
+	feiert die Mannschaft zuerst an diesem Ort, zuletzt nach dem Gewinn der Deutschen Meisterschaft
+	2011. </string>
+	<string name="bplatzlat">51.523421</string>
+	<string name="bplatzlong">7.481622</string>
+</resources>

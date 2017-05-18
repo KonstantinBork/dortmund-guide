@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="vapianotext">Vapiano, a Italian style restaurant, is represented once in Dortmund
+	city centre.</string>
+	<string name="vapianolat">51.512679</string>
+	<string name="vapianolong">7.46334</string>
+</resources>

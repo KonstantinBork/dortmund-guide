@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="dohbftext">Dortmund Main Station is one of the biggest railway stations in
+	Germany with more than 130.000 people crossing it every day. Its origins are dated in 
+	19th century, during World War II it was destroyed. The new built station building has got
+	five images made of glass which represent Dortmund\'s economy. After the renovation (2009-2011)
+	these images were replaced by copies.</string>
+	<string name="dohbflat">51.517897</string>
+	<string name="dohbflong">7.459314</string>
+</resources>

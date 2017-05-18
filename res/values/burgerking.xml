@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="burgertext">Burger King hat auch in Dortmund Standorte, nämlich drei.
+	Zwei Restaurants befinden sich in der Innenstadt oder zumindest in Reichweite.</string>
+	<string name="burgerlat1">51.514282</string>
+	<string name="burgerlong1">7.467068</string>
+	<string name="burgerlat2">51.52647</string>
+	<string name="burgerlong2">7.472525</string>
+	<string name="burgerlat3">51.494338</string>
+	<string name="burgerlong3">7.366665</string>
+</resources>

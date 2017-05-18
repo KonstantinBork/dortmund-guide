@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="fplatztext">Der Friedensplatz ist das Verwaltungszentrum Dortmunds. Er liegt
+	zwischen dem Rathaus und dem Stadthaus, welches alle Stadtämter verwaltet. Auf dem Platz gibt es
+	die Friedenssäule, die für Frieden in der Welt mahnt. Bei den Fußball-WMs 2006 und 2010 und der
+	Fußball-EM 2008 fanden hier Public-Viewings statt.</string>
+	<string name="fplatzlat">51.510987</string>
+	<string name="fplatzlong">7.466534</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="whallentext">Westfalenhallen are an exhibition, conference and event center
+at B1. All nine buildings include 60,000 square meters area. Every year, approximately two
+million people visit the fairs, concerts, shows, etc. Westfalenhallen were opened in 2009
+since then they have recorded a total of over 100 million visitors.</string>
+<string name="whallenlat">51.496859</string>
+<string name="whallenlong">7.452503</string>
+</resources>

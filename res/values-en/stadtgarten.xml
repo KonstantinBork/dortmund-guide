@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="gartentext">Stadtgarten is a small park built in 1982 within the Wall of
+	Dortmund. Friedensplatz is located east, town hall innorth-east. At its heart you find
+	the so called Gauklerbrunnen, moreover there is a skate park.</string>
+	<string name="gartenlat">51.510657</string>
+	<string name="gartenlong">7.464737</string>
+</resources>

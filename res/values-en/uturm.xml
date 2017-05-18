@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="uturmtext">U-Turm is the former headquarter of Union Brewery.	The tower was built
+	in 1926/27, the U is on the roof since 1968. Until 1994 it was in operation and after many
+	sellings of the area and the building itself the city of Dortmund bought the tower in 2007.
+	In 2008 the city decided to rebuild the tower for RUHR.2010. In 2010 it was reopened in parts
+	and it still is not finished yet.</string>
+	<string name="uturmlat">51.515235</string>
+	<string name="uturmlong">7.45228</string>
+</resources>

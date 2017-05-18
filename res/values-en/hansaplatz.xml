@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hplatztext">Hansaplatz lies south-west of Alter Markt in the city centre.	The
+	Althoff-Store which is Karstadt today, is located near to the plaza. Every Saturday there is
+	a market and every winter you find the biggest chrismas tree in the world.</string>
+	<string name="hplatzlat">51.513561</string>
+	<string name="hplatzlong">7.464673</string>
+</resources>

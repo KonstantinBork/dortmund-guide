@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hplatztext">Der Hansaplatz liegt in der Innenstadt südwestlich des Alten Marktes.
+	Am Hansaplatz findet man u.a. das Althoff-Warenhaus, welches heute ein Karstadt-Warenhaus
+	beinhaltet. Auf dem Platz findet jeden Samstag der Dortmunder Wochenmarkt statt, daneben
+	ist er ein zentraler Punkt des Weihnachtsmarktes mit dem höchsten Weihnachtsbaum der Welt.</string>
+	<string name="hplatzlat">51.513561</string>
+	<string name="hplatzlong">7.464673</string>
+</resources>

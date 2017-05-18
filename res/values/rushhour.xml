@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rushtext">Das Rush Hour gilt als russische Diskothek eben wegen der Gäste. Es ist
+	genau wie das Prisma eine Großraumdiskothek und bietet ähnliche Aktionen an.</string>
+	<string name="rushlat">51.520591</string>
+	<string name="rushlong">7.488346</string>
+</resources>

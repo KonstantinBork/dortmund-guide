@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="westhelltext">Der Westenhellweg ist Teil der zentralen Einkaufsstraße in der
+	Dortmunder Innenstadt. Er beginnt ungefähr in Höhe des Alten Marktes und verläuft einen
+	Kilometer bis zum Westentor. Im Osten verlängert er sich zum Ostenhellweg. Zusammen bilden
+	beide Straßen den ursprünglichen Hellweg des Mittelalters. Der Westenhellweg zählt zu den
+	meist-frequentierten Einkaufsstraßen Deutschlands.</string>
+	<string name="westhelllat">51.514353</string>
+	<string name="westhelllong">7.461153</string>
+</resources>

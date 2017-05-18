@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="casinotext">Das 1985 eröffnete Casino ist das umsatzstärkste Deutschlands.
+	Natürlich findet man hier neben Poker und Roulette alle anderen Spielmöglichkeiten. Vor dem Bau
+	des Casino befanden sich einige Gaststätten an seinem Ort.</string>
+	<string name="casinolat">51.420383</string>
+	<string name="casinolong">7.489346</string>
+</resources>

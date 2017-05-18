@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		>
+	<ScrollView
+		android:layout_width="fill_parent"
+	 	android:layout_height="fill_parent">
+	 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	 	android:orientation="vertical"
+	 	android:layout_width="fill_parent"
+	 	android:layout_height="fill_parent"
+	 	>
+	 	
+	 	<Button
+			android:id="@+id/burger"
+			android:text="@string/burger" 
+			android:layout_width="fill_parent" 
+			android:layout_height="100dip">
+			</Button>
+		
+		<Button
+			android:id="@+id/thuring"
+			android:text="@string/thuring" 
+			android:layout_width="fill_parent" 
+			android:layout_height="100dip">
+			</Button>
+		
+		<Button
+			android:id="@+id/kfc"
+			android:text="@string/kfc" 
+			android:layout_width="fill_parent" 
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/grand"
+			android:text="@string/grand" 
+			android:layout_width="fill_parent" 
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/maredo"
+			android:text="@string/maredo" 
+			android:layout_width="fill_parent" 
+			android:layout_height="100dip">
+			</Button>
+			
+	 	<Button
+			android:id="@+id/mcdonald"
+			android:text="@string/mcdonald" 
+			android:layout_width="fill_parent" 
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/nightrooms"
+			android:text="@string/nightrooms" 
+			android:layout_width="fill_parent" 
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/passion"
+			android:text="@string/passion" 
+			android:layout_width="fill_parent" 
+			android:layout_height="100dip">
+			</Button>
+			
+	 	<Button
+	 		android:id="@+id/prisma"
+			android:text="@string/prisma"
+			android:layout_width="fill_parent" 
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/rush"
+			android:text="@string/rush" 
+			android:layout_width="fill_parent" 
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/ssinners"
+			android:text="@string/ssinners" 
+			android:layout_width="fill_parent" 
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/strobel"
+			android:text="@string/strobel" 
+			android:layout_width="fill_parent" 
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/vapiano"
+			android:text="@string/vapiano"
+			android:layout_width="fill_parent" 
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/view"
+			android:text="@string/view" 
+			android:layout_width="fill_parent" 
+			android:layout_height="100dip">
+			</Button>
+			
+		<Button
+			android:id="@+id/village"
+			android:text="@string/village"
+			android:layout_width="fill_parent"
+			android:layout_height="100dip">
+			</Button>
+			
+		</LinearLayout>
+	</ScrollView>
+</LinearLayout>

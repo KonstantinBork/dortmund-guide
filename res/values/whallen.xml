@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="whallentext">Die Westfalenhallen sind ein Messe-, Kongress- und Veranstaltungszentrum
+an der B1. Alle neun Hallen umfassen 60.000 Quadratmeter Fläche. Jährlich besuchen ca. zwei
+Millionen Besucher die stattfindenden Messen, Konzerte, Shows usw. Die Westfalenhallen wurden im
+Jahr 1952 eröffnet, seitdem verzeichnet man insgesamt über 100 Millionen Besucher.</string>
+<string name="whallenlat">51.496859</string>
+<string name="whallenlong">7.452503</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="fparktext">Der Fredenbaumpark, 63 Hektar groß und  über 100 Jahre alt, gilt als
+	Grüne Lunge der Nordstadt. Im Norden befand sich bis zum Ersten Welkrieg ein Flugplatz.
+	Neben dem Big Tipi befinden sich heute noch andere Freizeit- und Erholungsmöglichkeiten,
+	die auch von den Einwohnern benutzt werden.</string>
+	<string name="fparklat">51.537945</string>
+	<string name="fparklong">7.452997</string>
+</resources>

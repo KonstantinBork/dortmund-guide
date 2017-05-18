@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="rparktext">Seit 1951 offiziell Botanischer Garten Rombergpark genannt ist der
+	Rombergpark schon im Jahr 1926 Grundlage für den Rombergschen Schlosspark gewesen. Die Anfänge
+	reichen allerdings bis in das Jahr 1818 zurück, als die Familie von Romberg um ihr Anwesen
+	in Dortmund-Brünninghausen einen Landschaftspark errichten ließ. Seit 1926 gehört der Park
+	der Stadt Dortmund und wird seitdem als Botanischer Garten genutzt.</string>
+	<string name="rparklat">51.47965</string>
+	<string name="rparklong">7.466666</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="grandtext">Diese Disko befindet sich an der Brückstraße und spielt Club-Hits,
+	House, Disco und R\'n\'B.</string>
+	<string name="grandlat">51.516245</string>
+	<string name="grandlong">7.464941</string>
+</resources>
